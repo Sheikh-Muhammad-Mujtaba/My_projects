@@ -6,7 +6,7 @@ import inquirer from "inquirer";
 // Generate a random number between 1 and 10
 const randomnumber = Math.floor(Math.random() * 10 + 1);
 
-// Collect the user's guess
+// Collect the user's guessclear
 const answers = await inquirer.prompt([
   {
     // Set the name of the user's input as 'userGussedNumber'
