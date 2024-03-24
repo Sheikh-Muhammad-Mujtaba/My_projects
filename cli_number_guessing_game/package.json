@@ -1,6 +1,6 @@
 {
-  "name": "cli-number-guesture_game",
-  "version": "1.0.0",
+  "name": "cli-random-number-guessing-game",
+  "version": "1.0.1",
   "description": "This is number guesture game in which you have to guess random generated numbers between 1-10 ",
   "main": "index.js",
   "type": "module",
