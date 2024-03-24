@@ -1,0 +1,29 @@
+{
+  "name": "cli-number-guesture_game",
+  "version": "1.0.0",
+  "description": "This is number guesture game in which you have to guess random generated numbers between 1-10 ",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "cli-number-guesture_game": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sheikh Mujtaba",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sheikh-Muhammad-Mujtaba/My_projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sheikh-Muhammad-Mujtaba/My_projects/issues"
+  },
+  "homepage": "https://github.com/Sheikh-Muhammad-Mujtaba/My_projects#readme"
+}
