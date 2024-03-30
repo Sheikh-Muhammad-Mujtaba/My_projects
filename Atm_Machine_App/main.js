@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+
 import inquirer from "inquirer";
 let myBalance = 50000; // Initial balance of the user
 let myPin = 1234; // Pin number of the user
