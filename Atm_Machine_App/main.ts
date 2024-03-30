@@ -1,9 +1,10 @@
 #! /usr/bin/env node
+
 import inquirer from "inquirer";
 
 let myBalance: number = 50000; // Initial balance of the user
 
-let myPin: number = 1234; // Pin number of the user
+let myPin: number = 1234 ; // Pin number of the user
 
 async function start() {
   // Prompt the user to enter their pin number
