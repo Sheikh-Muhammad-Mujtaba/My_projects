@@ -1,4 +1,4 @@
-
+#! /usr/bin/env node
 import inquirer from "inquirer";
 
 let myBalance: number = 50000; // Initial balance of the user
