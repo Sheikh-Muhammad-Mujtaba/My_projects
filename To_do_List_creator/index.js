@@ -20,7 +20,7 @@ while (condition) {
             name: "addmore",
             type: "confirm",
             message: "Do you want to add more tasks?",
-            default: false, // Default value for the confirmation prompt
+            default: true, // Default value for the confirmation prompt
         },
     ]);
     // Add the task entered by the user to the 'todos' array
