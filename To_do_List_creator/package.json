@@ -1,6 +1,6 @@
 {
   "name": "to_do_list_creator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "my simple to do list npm tool",
   "main": "index.js",
   "type": "module",
