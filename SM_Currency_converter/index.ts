@@ -49,5 +49,5 @@ let baseAmount = amount / fromAmount;
 let convertedAmount = baseAmount * toAmount;
 
 // Output the result
-console.log(`You converted ${amount} from ${userAnswer.fromCurrency} to ${userAnswer.toCurrency} is equal to: ${convertedAmount}`);
+console.log(`You converted ${amount} ${userAnswer.fromCurrency}  to: ${convertedAmount} ${userAnswer.toCurrency}`);
 
