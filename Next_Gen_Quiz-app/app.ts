@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-// Import necessary modules and functions
+// Import necessary modules and functions 
 import { input, select, confirm } from "@inquirer/prompts"; // For user input and selection
 import chalk from "chalk"; // For colorful CLI output
 import { islamicQuestions } from './questionModules/Islamic_quiz.js'; // Import Islamic quiz questions
@@ -18,7 +18,7 @@ ${chalk.blue.bold('*                                    *')}
 ${chalk.blue.bold('**************************************')}
 `;
 
-// Display the banner in the console
+// Display the banner in the console for making app look better
 console.log(banner);
 
 // Define a type for the different quiz topics
