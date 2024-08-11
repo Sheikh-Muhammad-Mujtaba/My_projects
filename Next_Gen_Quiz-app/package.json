@@ -1,0 +1,24 @@
+{
+  "name": "next_gen_quiz-app",
+  "version": "1.0.0",
+  "description": "It's  an cli quiz app project.",
+  "main": "app.js",
+  "type": "module",
+  "bin": {
+    "next_gen_quiz-app": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sheikh",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.8",
+    "chalk": "^5.3.0",
+    "inquirer": "^10.1.8"
+  },
+  "devDependencies": {
+    "@types/chalk": "^0.4.31",
+    "@types/inquirer": "^9.0.7"
+  }
+}
